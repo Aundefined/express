@@ -16,7 +16,7 @@
     "morgan": "~1.9.1",
     "mssql": "^6.1.0",
     "popper.js": "^1.16.1",
-    "systeminformation": "^4.22.3",
+    "systeminformation": "^4.27.11",
     "twig": "~0.10.3"
   },
   "devDependencies": {
